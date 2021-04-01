@@ -1,0 +1,16 @@
+C:\Users\Aivar\Practical_Assignment_OOP_3\bin\Debug\net5.0\Practical_Assignment_OOP_3.exe
+C:\Users\Aivar\Practical_Assignment_OOP_3\bin\Debug\net5.0\Practical_Assignment_OOP_3.deps.json
+C:\Users\Aivar\Practical_Assignment_OOP_3\bin\Debug\net5.0\Practical_Assignment_OOP_3.runtimeconfig.json
+C:\Users\Aivar\Practical_Assignment_OOP_3\bin\Debug\net5.0\Practical_Assignment_OOP_3.runtimeconfig.dev.json
+C:\Users\Aivar\Practical_Assignment_OOP_3\bin\Debug\net5.0\Practical_Assignment_OOP_3.dll
+C:\Users\Aivar\Practical_Assignment_OOP_3\bin\Debug\net5.0\ref\Practical_Assignment_OOP_3.dll
+C:\Users\Aivar\Practical_Assignment_OOP_3\bin\Debug\net5.0\Practical_Assignment_OOP_3.pdb
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\Practical_Assignment_OOP_3.csprojAssemblyReference.cache
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\Practical_Assignment_OOP_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\Practical_Assignment_OOP_3.AssemblyInfoInputs.cache
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\Practical_Assignment_OOP_3.AssemblyInfo.cs
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\Practical_Assignment_OOP_3.csproj.CoreCompileInputs.cache
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\Practical_Assignment_OOP_3.dll
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\ref\Practical_Assignment_OOP_3.dll
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\Practical_Assignment_OOP_3.pdb
+C:\Users\Aivar\Practical_Assignment_OOP_3\obj\Debug\net5.0\Practical_Assignment_OOP_3.genruntimeconfig.cache
